@@ -10,7 +10,7 @@ boton2.addEventListener("click",IrALibro2);
 boton3.addEventListener("click",IrALibro3);
 boton4.addEventListener("click",IrALibro4);
 boton5.addEventListener("click",IrALibro5);
-boton6.addEventListener("click",IrALibro5);
+boton6.addEventListener("click",IrALibro6);
 
 function IrALibro1 () {
     window.open("https://biz.payulatam.com/L0d6ed88570CC44");
