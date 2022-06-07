@@ -13,7 +13,7 @@ boton5.addEventListener("click",IrALibro5);
 boton6.addEventListener("click",IrALibro5);
 
 function IrALibro1 () {
-    window.open("https://irreverente.net/InfoP/COMO AHORRAR TIEMPO USANDO WHATSAPP BUSINESS.pdf");
+    window.open("https://biz.payulatam.com/L0d6ed88570CC44");
 }
 
 function IrALibro2 () {
@@ -21,11 +21,11 @@ function IrALibro2 () {
 }
 
 function IrALibro3 () {
-    window.open("https://irreverente.net/InfoP/COMO AHORRAR TIEMPO CON TU CELULAR Usando IFTTT.pdf");
+    window.open("https://biz.payulatam.com/L0d6ed87049F19F");
 }
 
 function IrALibro4 () {
-    window.open("https://irreverente.net/InfoP/AHORRA TIEMPO DE VIDA Usando Telegram.pdf");
+    window.open("https://biz.payulatam.com/L0d6ed88541D181");
 }
 
 function IrALibro5 () {
